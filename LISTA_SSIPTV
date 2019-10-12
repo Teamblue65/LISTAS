@@ -37,20 +37,7 @@ http://live.impresa.pt/live/sicrad/sicrad540p.m3u8
 http://live.impresa.pt/live/sicrad/sicrad.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMEMORIA.png" group-title="PORTUGAL",RTP MEMORIA (Copyright © 2019 - TeamBlue)
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmem_5ch80h264.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV1.png" group-title="PORTUGAL",SPORT TV 1 (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a035
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV2HD.png" group-title="PORTUGAL",SPORT TV 2 FHD (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a02t
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV3.png" group-title="PORTUGAL",SPORT TV 3 (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a02w
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SPTV4.png" group-title="PORTUGAL",SPORT TV 4 (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a02y
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/DISNEYJUNIOR.png" group-title="PORTUGAL",DISNEY JUNIOR (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a015
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/PANDABIGGS.png" group-title="PORTUGAL",PANDA BIGGS (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a013
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/NICKELODEON.png" group-title="PORTUGAL",NICKELODEON (Copyright © 2019 - TeamBlue)
-http://85.244.70.140:7000/play/a00o
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICK.png" group-title="PORTUGAL",SIC K (Copyright © 2019 - TeamBlue)
 http://live.impresa.pt/live/sick/sick540p.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/SICK.png" group-title="PORTUGAL",SIC K (Copyright © 2019 - TeamBlue)
@@ -67,20 +54,7 @@ http://85.244.70.140:7000/play/a012
 http://85.244.70.140:7000/play/a00z
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANAL180.png" group-title="PORTUGAL",Canal 180 (Copyright © 2019 - TeamBlue)
 http://noscdne.entrprise.tv:1935/live/canal180.stream/livestream.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPMADEIRA.png" group-title="PORTUGAL",RTP MADEIRA (Copyright © 2019 - TeamBlue)
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpmadeira_5ch1016h264H14.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPACORES.png" group-title="PORTUGAL",RTP ACORES (Copyright © 2019 - TeamBlue)
-http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpacores_5rtpacores.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANCAONOVA.png" group-title="PORTUGAL",CANÇÃO NOVA (Copyright © 2019 - TeamBlue)
-https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/stream1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/CANCAONOVA.png" group-title="PORTUGAL",CANÇÃO NOVA (Copyright © 2019 - TeamBlue)
-https://cancaonova.secure.footprint.net/egress/bhandler/cancaonovanew/channel01/stream1.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTV.png" group-title="PORTUGAL",AR TV (Copyright © 2019 - TeamBlue)
-http://193.126.16.68:1935/livenlin4/2liveartvpub/live.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTV.png" group-title="PORTUGAL",AR TV (Copyright © 2019 - TeamBlue)
-http://193.126.16.68:1935/livenlin4/mp4:2liveartvpub/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/ARTV.png" group-title="PORTUGAL",AR TV (Copyright © 2019 - TeamBlue)
-http://193.126.16.68:1935/livenlin4/2liveartvpub/chunklist_w30591610.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPAFRICA.png" group-title="PORTUGAL",RTP AFRICA (Copyright © 2019 - TeamBlue)
 http://rtp-pull-live-h1bnxvdk20183-proprtp-app-wrtp.hls.adaptive.level3.net/liverepeater/rtpafrica_5ch27h264.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/teamblue65/LOGO/master/RTPAFRICA.png" group-title="PORTUGAL",RTP AFRICA (Copyright © 2019 - TeamBlue)
